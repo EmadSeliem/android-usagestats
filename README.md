@@ -1,4 +1,4 @@
-# android-architecture-components-room
+# android-usagestas
 A sample aaplication can display a list of all apllications used in Android mobile phone for last 24 hours.
 
 ==============================================
