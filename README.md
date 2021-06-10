@@ -10,4 +10,4 @@ A sample aaplication can display list of all apllication used in Android mobile 
         
 ==============================================
  ### Screenshots
-<img src="screenshot_1.png" height="400" alt="Screenshot"/> <img src="screenshot_2.png" height="400" alt="Screenshot"/>
+<img src="screenshot_1.png" height="400" alt="Screenshot"/>    <img src="Screenshot_12.png" height="400" alt="Screenshot"/>
