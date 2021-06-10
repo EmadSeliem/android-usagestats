@@ -1,12 +1,9 @@
-# android-UsageStats
-MVVM + Kotlin + Hilt + Coroutines + LiveData+Data Binding.
+# android-architecture-components-room
+A sample aaplication can display a list of all apllications used in Android mobile phone for last 24 hours.
 
 ==============================================
-A sample aaplication can display list of all apllication used in Android mobile phone for last 24 hours, without any Internet permission.
 # android-permission
-
-
-        
+       
         
 ```
  <uses-permission
