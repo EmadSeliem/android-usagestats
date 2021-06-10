@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Usage Stats Manager</string>
+    <string name="permission_description">Usage Stats Manager </string>
+    <string name="allow_permission">Allow Permission</string>
+    <string name="hour_usage">Your Apps Usage for last 24 hours</string>
+</resources>
